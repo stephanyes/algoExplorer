@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/algoExplorer/static/css/main.fedf74b8.chunk.css",
+    "main.js": "/algoExplorer/static/js/main.b70b36a2.chunk.js",
+    "main.js.map": "/algoExplorer/static/js/main.b70b36a2.chunk.js.map",
+    "runtime-main.js": "/algoExplorer/static/js/runtime-main.7c108d11.js",
+    "runtime-main.js.map": "/algoExplorer/static/js/runtime-main.7c108d11.js.map",
+    "static/js/2.585655b9.chunk.js": "/algoExplorer/static/js/2.585655b9.chunk.js",
+    "static/js/2.585655b9.chunk.js.map": "/algoExplorer/static/js/2.585655b9.chunk.js.map",
+    "index.html": "/algoExplorer/index.html",
+    "precache-manifest.fc64136349870db6af2c66648f743c8a.js": "/algoExplorer/precache-manifest.fc64136349870db6af2c66648f743c8a.js",
+    "service-worker.js": "/algoExplorer/service-worker.js",
+    "static/css/main.fedf74b8.chunk.css.map": "/algoExplorer/static/css/main.fedf74b8.chunk.css.map",
+    "static/js/2.585655b9.chunk.js.LICENSE.txt": "/algoExplorer/static/js/2.585655b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c108d11.js",
+    "static/js/2.585655b9.chunk.js",
+    "static/css/main.fedf74b8.chunk.css",
+    "static/js/main.b70b36a2.chunk.js"
+  ]
+}
