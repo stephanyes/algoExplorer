@@ -1,0 +1,30 @@
+.Buttons {
+    box-shadow: 0px 0px 25px 0px rgba(168,166,168,0.5);
+    background-color: white;
+    border-radius: 20px;
+    padding: 17px 22px;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.Buttons:hover {
+    box-shadow: 0px 0px 25px 0px rgba(168,166,168,1);
+    background-color: white;
+    border-radius: 20px;
+    padding: 17px 22px;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.Container {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,39 @@
+.Card {
+    box-shadow: 0px 0px 25px 0px rgba(168,166,168,1);
+    background-color: white;
+    border-radius: 25px;
+    padding: 30px 25px 20px 25px;
+    margin-bottom: 25px;
+    overflow-wrap: break-word;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.Title {
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.Interval {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.Circle {
+    background-color: #000;
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+.Text {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}

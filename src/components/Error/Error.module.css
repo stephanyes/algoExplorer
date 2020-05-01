@@ -1,0 +1,7 @@
+.Error {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
